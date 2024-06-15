@@ -12,12 +12,13 @@ Once you've cloned the project and installed dependencies with `npm install` (or
 then inside .env file
 put the env variable of your firebase project
 
-# VITE_PROJECTID =
-# VITE_APIKEY =
-# VITE_AUTHDOMAIN =
-# VITE_STORAGEBUCKET =
-# VITE_MESSAGESENDERID =
-# VITE_APPID =
+` VITE_PROJECTID =
+VITE_APIKEY =
+VITE_AUTHDOMAIN =
+VITE_STORAGEBUCKET =
+VITE_MESSAGESENDERID =
+VITE_APPID =
+`
 
 
 ```bash
