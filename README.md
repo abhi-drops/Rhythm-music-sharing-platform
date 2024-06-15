@@ -17,11 +17,13 @@ VITE_APIKEY =
 VITE_AUTHDOMAIN =
 VITE_STORAGEBUCKET =
 VITE_MESSAGESENDERID =
-VITE_APPID =```
+VITE_APPID =
+```
 
 
 
-```bash
+``` bash
+
 " npm run dev " to run the project
 
 # or start the server and open the app in a new browser tab
