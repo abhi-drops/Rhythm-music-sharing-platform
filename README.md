@@ -3,7 +3,11 @@
 Rhythm is a web platform used to share music with other users . it is made using sveltkit and firebase .
 I made this for my Main Project during my Bachelor of Computer Applications in 2024
 
-` Note: the Ui is not Optimized for SmartPhones `
+```
+Note: the Ui is not Optimized for SmartPhones
+Currently only supported for PC & Tablets
+
+```
 
 live demo : https://rhythm-three.vercel.app/auth
 
